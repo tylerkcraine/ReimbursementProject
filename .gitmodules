@@ -1,0 +1,6 @@
+[submodule "ReimbursementProjectFrontEnd"]
+	path = ReimbursementProjectFrontEnd
+	url = https://github.com/tylerkcraine/ReimbursementProjectFrontEnd.git
+[submodule "ReimbursementProjectBackend"]
+	path = ReimbursementProjectBackend
+	url = https://github.com/tylerkcraine/ReimbursementProjectBackend.git
